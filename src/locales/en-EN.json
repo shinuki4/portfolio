@@ -1,0 +1,20 @@
+{
+  "personnal":{
+    "firstName": "First name",
+    "lastName": "Last name",
+    "email": "email",
+    "address": "address"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About me",
+    "resume": "Resume",
+    "portfolio": "Portfolio",
+    "contact": "Contact"
+  },
+  "home": {
+    "greetings": "Hi",
+    "announceMe": "I am",
+    "impact": [ "IT System Architect", "a lover of new technologies", "always ready to take up a challenge" ]
+  }
+}

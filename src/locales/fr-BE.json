@@ -1,0 +1,20 @@
+{
+  "personnal":{
+    "firstName": "Prénom",
+    "lastName": "Nom de famille",
+    "email": "email",
+    "address": "adresse"
+  },
+  "nav": {
+    "home": "Accueil",
+    "about": "A propos de moi",
+    "resume": "Curiculum Vitae",
+    "portfolio": "Portfolio",
+    "contact": "Contact"
+  },
+  "home": {
+    "greetings": "Bonjour",
+    "announceMe": "Je suis",
+    "impact": [ "Architecte en Système informatique", "un amoureux de nouvelles technologies", "toujours prêt à relever de nouveaux défis" ]
+  }
+}
