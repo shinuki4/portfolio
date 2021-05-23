@@ -1,11 +1,8 @@
 <template>
   <v-app>
-    <Nav  app/>
+    <Nav />
     <v-main transition="slide-x-transition">
-      <v-container fluid>
-        <router-view></router-view>
-      </v-container>
-      <!--<HelloWorld/>-->
+      <router-view></router-view>
     </v-main>
   </v-app>
 </template>
@@ -28,12 +25,12 @@ export default {
 </script>
 
 <style>
-html,
-body {
+
+.v-application {
   font-family: "Nunito", sans-serif;
 }
 
-#app {
-  font-family: "Nunito", sans-serif;
+.vue-typer .custom.char.typed {
+  color: var(--v-secondary-lighten3);
 }
 </style>
